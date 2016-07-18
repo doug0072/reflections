@@ -1,0 +1,5 @@
+What happens when you initialize a repository? 
+	A hidden folder called .git is created.
+Why do you need to do it?
+	It's the first step in using git.
+
