@@ -10,5 +10,36 @@ and the repository?
 What value do you think it offers?
 	Pick and choose which files to commit.
 
+git diff with no arguments checks pending changes
+
+	
+How can you use the staging area to make sure you have one commit per logical change?
+	Don't put tons of changes in it.
+
+	
+	
+What are some situations when branches would be helpful in keeping 
+your history organized? 
+	Trying different versions of the program.
+
+How would branches help?
+	Don't risk losing the main project in a confused mess.
+	
+	
+How do the diagrams help you visualize the branch structure?
+	By visualizing it.
+	
+	
+What is the result of merging two branches together?
+	They are combined, with all previous commits in history.
+	
+Why do we represent it in the diagram the way we do?
+	I don't know.
+	
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pros: keeps everything in the git logical
+	Cons: git is not user friendly
+	
 
 	
